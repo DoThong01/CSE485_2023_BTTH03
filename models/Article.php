@@ -64,7 +64,7 @@ class Article{
         $this->noidung = $noidung;
     }
     public function setHinhAnh($hinhanh){
-        $this->noidung = $hinhanh;
+        $this->hinhanh = $hinhanh;
     }
 
     public function convertToArray(){
