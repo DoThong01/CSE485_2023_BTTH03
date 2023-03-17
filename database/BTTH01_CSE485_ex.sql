@@ -97,9 +97,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`ten_dnhap`, `mat_khau`, `email`, `ngay_dki`, `admin`) VALUES
-('dovanthong', '123', 'dovanthong@gmail.com', '2023-03-03 14:07:02', 1),
-('phamchinhan', 'abc', 'phamchinhan@gmail.com', '2023-03-03 14:07:02', 1),
-('nguyenhoangviet', 'xyz', 'nguyenhoangviet@gmail.com', '2023-03-03 14:07:02', 1);
+('dothong', '123', 'dothong27112001@gmail.com', '2023-03-03 14:07:02', 1),
+
 
 --
 -- Indexes for dumped tables

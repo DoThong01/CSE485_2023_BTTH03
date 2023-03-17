@@ -33,7 +33,7 @@
                 {% for a in article %}
                         <div class="col-sm-3">
                             <div class="card mb-2" style="width: 100%;">
-                                <img src="assets\images\songs\a1.jpg" class="card-img-top" alt="...">
+                                <img src="assets\{{a.hinhanh}}" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <a href="index.php?controller=article&action=detail&id={{ a.ma_bviet }}" class="text-decoration-none text-dark rgba-red-strong">
                                         {{ a.tieude }}
